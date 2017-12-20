@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://D:/AndroidProject/GitHub/weibo_info/app/app.iml" filepath="D:/AndroidProject/GitHub/weibo_info/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weibo_info.iml" filepath="$PROJECT_DIR$/weibo_info.iml" />
+      <module fileurl="file://D:/AndroidProject/GitHub/weibo_info/weibo_info.iml" filepath="D:/AndroidProject/GitHub/weibo_info/weibo_info.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weibo_info-master.iml" filepath="$PROJECT_DIR$/weibo_info-master.iml" />
+    </modules>
+  </component>
+</project>
